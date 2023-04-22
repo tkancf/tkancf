@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">I'm tkan ٩( ᐛ )و</h1>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<!--
-**tkancf/tkancf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📝 I regularly write articles on [lotkan.com](lotkan.com)
 
-Here are some ideas to get you started:
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="/https://lotkan.com/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://lotkan.com/rss.xml" height="30" width="40" /></a>
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tkancf&show_icons=true&locale=en" alt="tkancf" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tkancf&" alt="tkancf" /></p>
