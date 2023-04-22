@@ -5,6 +5,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Commandキーをtmuxのプレフィックスキーとして使う方法 on Iterm2](https://lotkan.com/blog/command-as-tmux-prefix-key/)
+- [AstroとCloudflare Pagesでブログを作成しました](https://lotkan.com/blog/astro-and-cloudflare-pages-blog-creation/)
+- [Hello World!!](https://lotkan.com/blog/first-post/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
