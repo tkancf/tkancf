@@ -7,6 +7,7 @@
 
 ## Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Raycast のクリップボードヒストリーは ⌘+.で結合できる](https://lotkan.com/blog/raycast-clipboard-history-merge-with-cmd-period/)
 - [Commandキーをtmuxのプレフィックスキーとして使う方法 on Iterm2](https://lotkan.com/blog/command-as-tmux-prefix-key/)
 - [AstroとCloudflare Pagesでブログを作成しました](https://lotkan.com/blog/astro-and-cloudflare-pages-blog-creation/)
 - [Hello World!!](https://lotkan.com/blog/first-post/)
