@@ -7,10 +7,10 @@
 
 ## Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CloudFlare Workers、Cloudflare D1、HonoでLINE botを作りました](https://lotkan.com/blog/creating-line-bot-with-cloudflare-workers-d1-and-hono/)
 - [『SOFT SKILLS ソフトウェア開発者の人生マニュアル』を読み返しました](https://lotkan.com/blog/reading-soft-skills-the-software-developers-life-manual/)
 - [Raycast のクリップボードヒストリーは Command+.で結合できる](https://lotkan.com/blog/raycast-clipboard-history-merge-with-cmd-period/)
 - [Commandキーをtmuxのプレフィックスキーとして使う方法 on Iterm2](https://lotkan.com/blog/command-as-tmux-prefix-key/)
-- [AstroとCloudflare Pagesでブログを作成しました](https://lotkan.com/blog/astro-and-cloudflare-pages-blog-creation/)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
