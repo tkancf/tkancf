@@ -3,7 +3,7 @@
 
 ## About me
 
-- 📝 I regularly write articles on [lotkan.com](https://lotkan.com)
+- 📝 I regularly write articles on [tkancf.com](https://tkancf.com)
 
 ## Recent blog posts
 <!-- BLOG-POST-LIST:START -->
