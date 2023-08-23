@@ -1,4 +1,4 @@
-<h1 align="center">I'm tkan ٩( ᐛ )و</h1>
+<h1 align="center">tkan ٩( ᐛ )و</h1>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ## About me
