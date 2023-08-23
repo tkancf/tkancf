@@ -8,7 +8,7 @@
 ## Recent blog posts
 <!-- BLOG-POST-LIST:START -->
 - [tkan&#39;s Release Notes v0.28.10](https://tkancf.com/blog/tkan-release-note-v02810/)
-- [cdコマンドを拡張したzoxideコマンドが便利でした](https://tkancf.com/blog/zoxide-a-convenient-extension-of-the-cd-command/)
+- [cdコマンドを拡張したzoxideコマンドが便利](https://tkancf.com/blog/zoxide-a-convenient-extension-of-the-cd-command/)
 - [tkan&#39;s Release Notes v0.28.9](https://tkancf.com/blog/tkan-release-note-v0289/)
 - [CloudFlare Workers、Cloudflare D1、HonoでLINE botを作りました](https://tkancf.com/blog/creating-line-bot-with-cloudflare-workers-d1-and-hono/)
 <!-- BLOG-POST-LIST:END -->
