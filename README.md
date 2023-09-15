@@ -7,10 +7,10 @@
 
 ## Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub ActionsでPulumiをCI/CDしてみた](https://tkancf.com/blog/trying-cicd-with-pulumi-using-github-actions/)
 - [Pulumi+GoでCloudflareのDNS既存リソースをインポートして管理してみた](https://tkancf.com/blog/managing-and-importing-existing-cloudflare-dns-resources-pulumi-go/)
 - [tkan&#39;s Release Notes v0.28.10](https://tkancf.com/blog/tkan-release-note-v02810/)
 - [cdコマンドを拡張したzoxideコマンドが便利](https://tkancf.com/blog/zoxide-a-convenient-extension-of-the-cd-command/)
-- [tkan&#39;s Release Notes v0.28.9](https://tkancf.com/blog/tkan-release-note-v0289/)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
