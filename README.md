@@ -7,10 +7,10 @@
 
 ## Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [iTerm2でベルの音を止める](https://tkancf.com/blog/mute-iterm2-bell/)
+- [Astroのバージョンをv2からv3に上げました](https://tkancf.com/blog/update-astro-v2-to-v3/)
 - [GitHub ActionsでPulumiをCI/CDしてみた](https://tkancf.com/blog/trying-cicd-with-pulumi-using-github-actions/)
 - [Pulumi+GoでCloudflareのDNS既存リソースをインポートして管理してみた](https://tkancf.com/blog/managing-and-importing-existing-cloudflare-dns-resources-pulumi-go/)
-- [tkan&#39;s Release Notes v0.28.10](https://tkancf.com/blog/tkan-release-note-v02810/)
-- [cdコマンドを拡張したzoxideコマンドが便利](https://tkancf.com/blog/zoxide-a-convenient-extension-of-the-cd-command/)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
