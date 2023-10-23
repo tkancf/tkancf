@@ -12,6 +12,3 @@
 - [iTerm2でベルの音を止める](https://tkancf.com/blog/mute-iterm2-bell/)
 - [Astroのバージョンをv2からv3に上げました](https://tkancf.com/blog/update-astro-v2-to-v3/)
 <!-- BLOG-POST-LIST:END -->
-
-## GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tkancf&show_icons=true&locale=en" alt="tkancf" /></p>
