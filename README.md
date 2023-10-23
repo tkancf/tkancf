@@ -11,4 +11,5 @@
 - [$&lpar; cd &quot;$&lpar; dirname &quot;${BASH_SOURCE[0]}&quot; &rpar;&quot; &amp;&amp; pwd &rpar; を理解する](https://tkancf.com/blog/understanding-bash-source/)
 - [iTerm2でベルの音を止める](https://tkancf.com/blog/mute-iterm2-bell/)
 - [Astroのバージョンをv2からv3に上げました](https://tkancf.com/blog/update-astro-v2-to-v3/)
+- [GitHub ActionsでPulumiをCI/CDしてみた](https://tkancf.com/blog/trying-cicd-with-pulumi-using-github-actions/)
 <!-- BLOG-POST-LIST:END -->
