@@ -41,5 +41,3 @@
 ###
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tkancf&show_icons=true&locale=en" alt="tkancf" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tkancf&" alt="tkancf" /></p>
