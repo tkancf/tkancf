@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hey 👋, I'm tkancf</h1>
+<h2 align="left">Hey 👋, I'm tkan☕️</h1>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm tkancf from Japan<br>- 📝 I regularly write articles on <a href="https://tkancf.com">tkancf.com</a><br>- 🔭 I’m working as infrastructure engineer<br>- 📚 I'm currently learning web Frontend<br>- ☕ I like coffee</p>
+<p align="left">I'm tkan from Japan<br>- 📝 I regularly write articles on <a href="https://tkancf.com">tkancf.com</a><br>- 🔭 I’m working as infrastructure engineer<br>- 📚 I'm currently learning web Frontend<br>- ☕ I like coffee</p>
 
 ###
 
